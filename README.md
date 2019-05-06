@@ -9,4 +9,4 @@ This repository contains teaching material for the Intermedate Python Training s
 - 5.45 - 6.30 - Functions
 - 6.30 - 7.00 - Error handling
 
-This workshop will be using Python 3.6 inside the Jupyter Notebook. You can find installation instructions inside the Python_Installation.md instruction file.
+This workshop will be using Python 3.7 inside the Jupyter Notebook. You can find installation instructions inside the [Python_Installation.md](https://github.com/resbaz/Intro_Python_Nov2017/blob/master/Python_Installation.md) instruction file.
